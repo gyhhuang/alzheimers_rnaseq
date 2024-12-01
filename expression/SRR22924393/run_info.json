@@ -1,0 +1,14 @@
+{
+	"n_targets": 207133,
+	"n_bootstraps": 0,
+	"n_processed": 270330591,
+	"n_pseudoaligned": 83669729,
+	"n_unique": 29059542,
+	"p_pseudoaligned": 31.0,
+	"p_unique": 10.7,
+	"kallisto_version": "0.51.1",
+	"index_version": 13,
+	"k-mer length": 31,
+	"start_time": "Sat Nov 30 17:01:17 2024",
+	"call": "kallisto quant -i kallisto_index -o kallisto_output4 --single -l 91 -s 15 -t 12 SRR22924393.fastq"
+}

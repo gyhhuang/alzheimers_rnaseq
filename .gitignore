@@ -1,0 +1,6 @@
+fasterq.tmp..0/
+*.fastq
+expression/archive/
+kallisto_index
+kallisto.exe
+Homo_sapiens.GRCh38.cdna.all.fa

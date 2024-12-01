@@ -1,0 +1,36 @@
+﻿Isolate,Pathology Stage,Braak,CERAD,APOE,Sex,Age,EC,ITG,PFC,V2,V1
+2259,PathStage 2,II,sparse,e3/e3,F,90+,yes,yes,yes,yes,yes
+2233,PathStage 4,VI,frequent,e3/e3,F,72,yes,yes,yes,yes,yes
+2232,PathStage 3,V,frequent,e3/e3,F,65,,yes,yes,yes,yes
+2225,PathStage 3,V,moderate,e3/e4,F,90+,yes,yes,yes,yes,yes
+2223,PathStage 4,VI,moderate,e3/e4,M,90+,yes,yes,yes,yes,yes
+2219,PathStage 3,V,frequent,e4/e4,M,82,yes,yes,yes,yes,yes
+2203,PathStage 4,VI,frequent,e3/e4,F,75,,yes,yes,yes,yes
+2191,PathStage 2,II,sparse,e2/e3,M,87,yes,yes,yes,yes,yes
+2169,PathStage 2,III,moderate,e3/e3,F,84,yes,yes,yes,yes,yes
+2132,PathStage 3,V,moderate,e3/e3,F,90+,yes,yes,yes,yes,yes
+2122,PathStage 4,VI,frequent,e3/e4,M,85,yes,yes,yes,yes,yes
+2112,PathStage 4,VI,moderate,e3/e3,M,78,yes,yes,yes,yes,yes
+2097,PathStage 1,II,none,e3/e3,M,90+,yes,yes,yes,yes,yes
+2068,PathStage 1,II,none,e3/e3,F,79,yes,yes,yes,yes,yes
+2057,PathStage 3,V,moderate,e3/e3,M,85,,yes,yes,yes,yes
+2021,PathStage 3,V,moderate,e3/e4,F,85,yes,yes,yes,yes,yes
+2019,PathStage 3,V,moderate,e3/e3,F,84,yes,yes,yes,yes,yes
+2018,PathStage 1,II,none,e3/e3,F,90+,yes,yes,yes,yes,yes
+2015,PathStage 2,III,sparse,e3/e3,M,90+,yes,yes,yes,yes,yes
+1926,PathStage 3,V,moderate,e2/e3,F,82,yes,yes,yes,yes,yes
+1907,PathStage 2,III,sparse,e3/e3,F,90+,,yes,yes,yes,yes
+1906,PathStage 2,III,moderate,e2/e2,M,71,yes,yes,yes,yes,yes
+1886,PathStage 1,0,none,e3/e3,F,58,yes,yes,yes,yes,yes
+1872,PathStage 2,II,sparse,e3/e3,F,91,yes,yes,yes,yes,yes
+1854,PathStage 2,III,sparse,e3/e3,F,85,yes,yes,yes,yes,yes
+1845,PathStage 4,VI,frequent,e3/e4,F,90+,yes,yes,yes,yes,yes
+1837,PathStage 1,I,none,e3/e3,M,68,,,yes,yes,yes
+1821,PathStage 1,II,none,e3/e3,M,92,,yes,,yes,yes
+1703,PathStage 1,0,none,e3/e3,F,73,,yes,,yes,yes
+1669,PathStage 1,I,none,e3/e3,M,86,,yes,,yes,yes
+1636,PathStage 4,VI,frequent,e3/e3,M,86,yes,yes,yes,yes,yes
+1628,PathStage 4,VI,frequent,e3/e3,F,60,yes,yes,yes,yes,yes
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
